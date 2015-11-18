@@ -14,4 +14,6 @@ class Fizzbuzz
       number
     end
   end
+
+
 end
